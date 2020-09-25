@@ -1,6 +1,15 @@
 # prueba-kumu
 Este repo incluye lo necesario para el ejercicio de programación para contratación en Kumu
 
+### Instalación, clona o descarga el zip
+
+Para inicializar el proyecto correo el comando:
+
+```
+composer dump-autoload
+```
+
+
 ## Requerimientos
 
 Crear un administrador de pagos que opere lo siguientes elementos:
